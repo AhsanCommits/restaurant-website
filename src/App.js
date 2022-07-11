@@ -3,7 +3,7 @@ import Restaurant from "./components/code/Restaurant";
 const App = () => {
   return (
     <div>
-      <Restaurant></Restaurant>
+      <Restaurant />
     </div>
   )
 }
